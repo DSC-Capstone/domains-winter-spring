@@ -18,23 +18,20 @@ nav_order: 1
 
 ## Overview
 
-Welcome to the capstone program! The capstone program is a two-quarter sequence (Fall 2026 and Winter 2027) in which you will be mentored by a faculty member or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams. You can see the projects from last year at [**dsc-capstone.org/showcase-26**](https://dsc-capstone.org/showcase-26).
+Welcome to the capstone program! The capstone program is a two-quarter sequence in which you will be mentored by a faculty member or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams. You can see the projects from last year at [**dsc-capstone.org/showcase-26**](https://dsc-capstone.org/showcase-26).
 
 
 At a high level, here’s how the capstone program is organized:
-- In Quarter 1 (DSC 180A), you gain background information in your mentor’s domain, by means of replicating a known result. By the end of Quarter 1, you will have completed a replication project (known as the “Quarter 1 Project”) and will have a proposal for a more independent project (known as the “Quarter 2 Project”, or the capstone project).
+- In Quarter 1 (DSC 180A), you gain background information in your mentor’s domain, by means of replicating a known result. By the end of Quarter 1, you will have completed a replication project or a project to get your feet wet in the chosen domain (known as the “Quarter 1 Project”) and will have a proposal for a more independent project (known as the “Quarter 2 Project”, or the capstone project).
 - In Quarter 2 (DSC 180B), you execute the Quarter 2 Project you proposed at the end of Quarter 1.
 
 ## Enrollment
 
-Enrollment will begin soon. The available domains are **not** listed on the Schedule of Classes; instead, they are detailed [**below**](#toc). Most domains are run by UCSD faculty, but some are run by industry partners (denoted with an <span class="badge-industry">Industry Partner</span> badge).
+The available domains are **not** listed on the Schedule of Classes; instead, they are detailed [**below**](#toc). Most domains are run by UCSD faculty, but some are run by industry partners (denoted with an <span class="badge-industry">Industry Partner</span> badge).
 
-Use the information here to shortlist the domains you'd like to enroll in. Once you've done this fill out the Google form sent to you by email. We will then allocate domains based on mentor input as well as your interests based on your rank amongst those enrolling in 180A. Rank is decided by a combination of your GPA and credits earned at the end of (and including) the Spring quarter.  Note that you cannot change domains between DSC 180A and DSC 180B AND its your responsibility to ensure that you fulfill all pre-requisites for 180A. 
+Use the information here to learn more about the domain. We will then allocate domains amongst those enrolling in 180A.  Note that you cannot change domains between DSC 180A and DSC 180B AND it's your responsibility to ensure that you fulfill all pre-requisites for 180A. 
 
 All of the information here – domain offerings, section times, descriptions, summer tasks, etc. – is subject to change as mentors provide us with more information.
-
-<!--{: .important }
-**As of this writing (Wednesday, May 22nd at 1PM), the section sizes in the Schedule of Classes haven't yet been updated. Trust the information here, not there.** -->
 
 ### How should I choose a domain?
 
@@ -47,14 +44,14 @@ You should aim to choose a domain that suits your interests and preparation. By 
 
 ❌ <span style="color:#ff0000"><b>Bad</b></span> reasons to choose a domain:
 - The mentor has good teaching evaluations.
-- The industry partner is a big company.
+- The industry partner is a popular company.
 - The section has space for you and your friends at a time that you like.
 
 Everything you produce for the capstone will have to be public on the internet for the rest of eternity with you and your mentor's names attached to it – you want your capstone work to be something that you're proud of and can talk about on job and graduate school applications. Who do you want writing you a recommendation letter?
 
 ### What happens in DSC 180A?
 
-In addition to meeting with your mentor each week, there will also be methodology instruction delivered by the capstone coordinator and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.org/2024-25/lessons/01/)). **This means that you can mostly ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** A few of the lecture slots may be used for the capstone coordinator's office hours or for one-off guest lectures, but we don't plan to use the majority of the times.
+In addition to meeting with your mentor each week, there will also be methodology instruction delivered by the capstone coordinator and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.org/2026-27/lessons/01/)). **This means that you can mostly ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** A few of the lecture slots may be used for the capstone coordinator's office hours or for one-off guest lectures, but we don't plan to use the majority of the times.
 
 All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1).
 
