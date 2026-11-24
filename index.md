@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 {: .success }
-[Home page for the Course Web Page for the 2026-27 Edition](https://dsc-capstone.org/2026-27-ws)
+[Home page for the Course Web Page for the 2026-27 WS Edition](https://dsc-capstone.org/2026-27-ws)
 
 {: .success }
 ** Read the information at the top of the page, then scroll down to see information about each domain. **
