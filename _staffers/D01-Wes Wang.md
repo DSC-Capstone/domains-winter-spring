@@ -34,7 +34,7 @@ style: |
 
 seats: 4
 
-tag: llm
+tag: app
 
 goal: |
   Proof of concept demonstrator
