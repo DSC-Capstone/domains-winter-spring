@@ -73,8 +73,8 @@ Filter by subject area:
 <a name='toc'>
 
 [**AI/ML Systems**](#sys)<br>
-[**🗣️ Language Models**](#llm)<br>
-[**🧠 Theoretical Foundations**](#theory)<br>
+<!--[**🗣️ Language Models**](#llm)<br>
+[**🧠 Theoretical Foundations**](#theory)<br> -->
 [**⚙️ Applied Data Science**](#app)<br>
 
 
@@ -93,7 +93,7 @@ Filter by subject area:
 
 ---
 
-
+<!--
 <a name='llm'></a>
 
 ## Language Models
@@ -120,6 +120,7 @@ Filter by subject area:
 
 
 ---
+-->
 <a name='app'></a>
 
 ## Applied Data Science
