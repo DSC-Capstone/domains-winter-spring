@@ -1,2 +1,2 @@
 # enrollment
-2026-27 Fall-Winter capstone domain listing
+2026-27 Winter-Spring capstone domain listing
